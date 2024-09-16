@@ -22,6 +22,7 @@ public class RigidBodyMovement : MonoBehaviour
     {
         rigidBody = GetComponent<Rigidbody>();
         CanJump = true;
+        UpdateScore();
     }
     private void UpdateScore()
     {
