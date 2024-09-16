@@ -4348,7 +4348,7 @@ MonoBehaviour:
   CanJump: 0
   TotalItems: 0
   CollectedItems: 0
-  goal: {fileID: 0}
+  goal: {fileID: 1081761369}
 --- !u!135 &1786551416
 SphereCollider:
   m_ObjectHideFlags: 0
